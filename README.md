@@ -15,7 +15,9 @@ To keep this project reasonable in size, I stuck with only the socialist candida
 
 ## Website Sources
 
-**[Communist Party USA](https://www.cpusa.org)**
+**Communist Party USA**
+
+https://www.cpusa.org
 
 https://twitter.com/communistsusa
 
