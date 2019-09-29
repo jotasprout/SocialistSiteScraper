@@ -13,8 +13,9 @@ I was soon distracted by others that I needed to know so I could build and manag
 
 To keep this project reasonable in size, I stuck with only the socialist candidates (also in keeping with the original inspiration). 
 
-Communist Party USA
-www.cpusa.org
+## Website Sources
+
+[Communist Party USA](https://www.cpusa.org)
 https://twitter.com/communistsusa
 
 Democratic Socialists of America
