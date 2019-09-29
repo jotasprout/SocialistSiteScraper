@@ -16,48 +16,67 @@ To keep this project reasonable in size, I stuck with only the socialist candida
 ## Website Sources
 
 [Communist Party USA](https://www.cpusa.org)
+
 https://twitter.com/communistsusa
 
 Democratic Socialists of America
+
 https://www.dsausa.org
+
 https://twitter.com/demsocialists
 
 Freedom Socialist Party
+
 https://socialism.com
 
 Green Party of the United States
+
 https://gpus.org
+
 https://twitter.com/GreenPartyUS
 
 Party for Socialism and Liberation
+
 https://www.pslweb.org
 
 Revolutionary Communist Party
+
 https://revcom.us/rcp/
 
 Socialist Alternative
+
 https://www.socialistalternative.org/
 
 https://twitter.com/OfficialSPGB
 
 Socialist Equality Party
+
 https://socialequality.com
 
 Socialist Party USA
+
 https://www.socialistpartyusa.net/
+
 https://twitter.com/SPofUSA
 
 Socialist Workers Party
+
 none found
 
 Solidarity Party
+
 https://solidarity-party.org/
+
 https://solidarity-party.org/blog/
 
 Workers World Party
+
 https://www.workers.org/wwp/
+
 https://twitter.com/workersworld
 
 Working Families Party
+
 https://workingfamilies.org
+
 https://twitter.com/WorkingFamilies
